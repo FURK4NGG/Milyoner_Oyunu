@@ -60,6 +60,10 @@ void setup() {
 
   Serial.println("HTTP sunucu baslatildi");
   Serial.println(WiFi.localIP());
+  display.clearDisplay();
+  display.setCursor(0, 0);
+  display.println(WiFi.localIP());
+  display.display();
   getNewQuestion();
 }
 
