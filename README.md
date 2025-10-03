@@ -10,7 +10,7 @@
 
 ## 🔎 Preparation
 1. `Find your wifi's name and password`
-2. ``
+2. `Go to the `[`Google AI Studio`](https://aistudio.google.com/app/api-keys)`and create api key`  
    
 
 
