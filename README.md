@@ -8,6 +8,12 @@
 <h1 align="center">This is an AI-driven game designed to accurately guess your selection through a process of progressively eliminating options with increasingly specific questions, all based on your responses.</h1>  
 
 
+## 🔎 Preparation
+1. `Find your wifi's name and password`
+2. ``
+   
+
+
 ## 📦 Setup 
 1. `Refer to the circuit diagram`
 2. `Install and open Arduino IDE`
