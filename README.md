@@ -30,7 +30,8 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 > ⚠️ **Warning:** Make sure you have installed the correct USB driver (CH340, CH341 or CP2102) before connecting the ESP8266 to your computer.
 8. `Plug the ESP8266 into your computer`
 9. `Tools>Port>'Select the esp8266's port'`
-10. `Click the 'upload ➡️' button`  
+10. `Tools>Manage Libraries...>Install the libraries used in the code`
+11. `Click the 'upload ➡️' button`  
 ✅ **To make sure it has been uploaded successfully, you should see the message 'Done uploading'**  
 
 
