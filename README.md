@@ -28,7 +28,7 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 6. `Click 'OK'`  
 7. `Tools>Board>Boards Manager...`  
 8. `Search 'esp8266' and install it` 
-> ⚠️ **Warning:** Make sure you have installed the correct USB driver (CH340 or CP2102) before connecting the ESP8266 to your computer.
+> ⚠️ **Warning:** Make sure you have installed the correct USB driver (CH340, CH341 or CP2102) before connecting the ESP8266 to your computer.
 9. `Plug the ESP8266 into your computer`  
 10. `Tools>Port>'Select the esp8266's port'`
 11. `Click the 'upload ➡️' button`  
