@@ -11,10 +11,7 @@
 ## 🔎 Preparation
 <details>
 <summary>1. Components</summary>
-
-Follow these steps:
-```bash
-```
+`1` ESP-8266
 </details>
 
 1. `Find your wifi's name and password`
