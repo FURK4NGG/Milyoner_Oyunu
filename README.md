@@ -9,6 +9,13 @@
 
 
 ## 🔎 Preparation
+<details>
+<summary>1. Components</summary>
+
+Follow these steps:
+```bash
+```
+
 1. `Find your wifi's name and password`
 2. `Go to the`[`Google AI Studio`](https://aistudio.google.com/app/api-keys)`and create your own api key`
 > **Not Required:**Go to the[`Google AI Studio`](https://aistudio.google.com/app/api-keys)>F12>Network>F5>Click on any request>Security>Copy the SHA-1 fingerprint
