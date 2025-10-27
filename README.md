@@ -11,7 +11,7 @@
 ## 🔎 Preparation
 <details>
 <summary>1. Components</summary>
-`1` ESP-8266
+'1' ESP-8266
 </details>
 
 2. `Find your wifi's name and password`
