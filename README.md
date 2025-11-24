@@ -1,5 +1,5 @@
 ## 👀 Milyoner_Oyunu Overview  
-<h1 align="center">AI based 28 Questions Game</h1>  
+<h1 align="center">AI based Millionaire Game</h1>  
 
 
 ![Image](https://github.com/user-attachments/assets/a209d9cc-86c0-4c72-96bf-d9d024e7eb86)
