@@ -1,7 +1,6 @@
 ## 👀 Milyoner_Oyunu Overview  
 <h1 align="center">AI based Millionaire Game</h1>  
 
-
 ![Milyoner_Oyunu Demo Image](https://github.com/FURK4NGG/Milyoner_Oyunu/blob/main/{}/milyoner_oyunu-1.webp)
 
 ![Milyoner_Oyunu Demo Image](https://github.com/FURK4NGG/Milyoner_Oyunu/blob/main/{}/milyoner_oyunu-2.webp)
@@ -11,7 +10,6 @@
 ![Milyoner_Oyunu Demo Image](https://github.com/FURK4NGG/Milyoner_Oyunu/blob/main/{}/milyoner_oyunu-4.webp)
 
 ![Milyoner_Oyunu Demo Image](https://github.com/FURK4NGG/Milyoner_Oyunu/blob/main/{}/milyoner_oyunu-5.webp)
-
 
 ## 🚀 Features  
 <h1 align="center">This is an AI-driven game designed to accurately guess your selection through a process of progressively eliminating options with increasingly specific questions, all based on your responses.<br><br>•It's powered by Google Gemini<br>•It asks a different question every time</h1>  
