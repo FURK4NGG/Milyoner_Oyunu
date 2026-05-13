@@ -2,11 +2,11 @@
 <h1 align="center">AI based Millionaire Game</h1>  
 
 
-![Image](https://github.com/FURK4NGG/Milyoner_Oyunu/blob/main/{}/milyoner_oyunu-1.webp)
-![Image](https://github.com/FURK4NGG/Milyoner_Oyunu/blob/main/{}/milyoner_oyunu-2.webp)
-![Image](https://github.com/FURK4NGG/Milyoner_Oyunu/blob/main/{}/milyoner_oyunu-3.webp)
-![Image](https://github.com/FURK4NGG/Milyoner_Oyunu/blob/main/{}/milyoner_oyunu-4.webp)
-![Image](https://github.com/FURK4NGG/Milyoner_Oyunu/blob/main/{}/milyoner_oyunu-5.webp)
+![Milyoner_Oyunu Demo Image](https://github.com/FURK4NGG/Milyoner_Oyunu/blob/main/{}/milyoner_oyunu-1.webp)
+![Milyoner_Oyunu Demo Image](https://github.com/FURK4NGG/Milyoner_Oyunu/blob/main/{}/milyoner_oyunu-2.webp)
+![Milyoner_Oyunu Demo Image](https://github.com/FURK4NGG/Milyoner_Oyunu/blob/main/{}/milyoner_oyunu-3.webp)
+![Milyoner_Oyunu Demo Image](https://github.com/FURK4NGG/Milyoner_Oyunu/blob/main/{}/milyoner_oyunu-4.webp)
+![Milyoner_Oyunu Demo Image](https://github.com/FURK4NGG/Milyoner_Oyunu/blob/main/{}/milyoner_oyunu-5.webp)
 
 
 ## 🚀 Features  
